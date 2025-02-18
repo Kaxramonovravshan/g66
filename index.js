@@ -9,5 +9,4 @@ server.use(router);
 
 server.listen(port);
 
-console.log();
 
